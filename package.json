@@ -1,0 +1,27 @@
+{
+  "name": "rapise-openapi2rest",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inflectra/rapise-openapi2rest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inflectra/rapise-openapi2rest/issues"
+  },
+  "homepage": "https://github.com/Inflectra/rapise-openapi2rest#readme",
+  "dependencies": {
+    "jsonpath": "^1.1.0",
+    "openapi-to-postmanv2": "^2.2.0",
+    "yargs": "^16.2.0"
+  },
+  "bin": {
+    "openapi2rapise": "./index.js"
+  }
+}
