@@ -1,6 +1,6 @@
 {
   "name": "rapise-openapi2rest",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/Inflectra/rapise-openapi2rest.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Inflectra/rapise-openapi2rest/issues"
@@ -33,5 +32,5 @@
       "email": "alexey.grinevich@inflectra.com",
       "name": "Alexey Grinevich"
     }
-  ],
+  ]
 }
