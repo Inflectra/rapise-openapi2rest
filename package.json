@@ -23,5 +23,15 @@
   },
   "bin": {
     "openapi2rapise": "./index.js"
-  }
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "author": "Inflectra Corporation",
+  "contributors": [
+    {
+      "email": "alexey.grinevich@inflectra.com",
+      "name": "Alexey Grinevich"
+    }
+  ],
 }
